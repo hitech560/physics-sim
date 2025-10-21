@@ -1,15 +1,24 @@
-# 🎬 科学可视化演示合集
-
-本项目包含两个高质量的物理可视化演示，用于教学与展示：
-1. **[宇称不守恒](https://zh.wikipedia.org/wiki/%E5%AE%87%E7%A7%B0%E4%B8%8D%E5%AE%88%E6%81%92)演示（Parity Violation Visualization）**  
-2. **二维规范场演化模拟（2D Gauge Field Evolution Simulation）**
-
----
+<p align="center" width="100%">
+    <img src="./宇称不守恒与二维规范场演化模拟.png" alt="宇称不守恒与二维规范场演化模拟" width="100%">
+</p>
 
 > 
 > “很幸运能够在海滩上捡到了几个美丽的石头、蚌壳和螺蛳，不过，世界上更美丽的蚌壳、螺蛳、石头还多得很，还有无数多的事情需要继续做下去。”
 > 
 > 以此致敬[杨振宁](https://zh.wikipedia.org/zh-hans/%E6%9D%A8%E6%8C%AF%E5%AE%81)先生
+> 
+> [宇称不守恒](https://zh.wikipedia.org/wiki/%E5%AE%87%E7%A7%B0%E4%B8%8D%E5%AE%88%E6%81%92) | [规范场论](https://zh.wikipedia.org/zh-hans/%E8%A7%84%E8%8C%83%E5%9C%BA%E8%AE%BA) | [杨-米尔斯理论](https://zh.wikipedia.org/wiki/%E6%A5%8A-%E7%B1%B3%E7%88%BE%E6%96%AF%E7%90%86%E8%AB%96)
+>
+
+---
+
+# 🎬 科学可视化演示合集
+
+本项目包含两个高质量的物理可视化演示，用于教学与展示：
+1. **[宇称不守恒](https://zh.wikipedia.org/wiki/%E5%AE%87%E7%A7%B0%E4%B8%8D%E5%AE%88%E6%81%92)演示（Parity Violation Visualization）**  
+2. **二维[规范场](https://zh.wikipedia.org/zh-hans/%E8%A7%84%E8%8C%83%E5%9C%BA%E8%AE%BA)演化模拟（2D Gauge Field Evolution Simulation）**
+
+---
 
 ## 🧭 目录
 
@@ -195,6 +204,8 @@ pip install ffmpeg-python
 - Yang, C.N. & Mills, R.L., *Conservation of Isotopic Spin and Gauge Invariance*, Phys. Rev. (1954)
 - S. Coleman, *Gauge Theory Lectures* (1975)
 - Python Matplotlib Animation 官方文档
+- Sympy 官方文档
+- 维基百科，自由的百科全书
 
 ---
 
