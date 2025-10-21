@@ -61,9 +61,11 @@
 ### ⚙️ 模型公式
 
 角分布：
+
 $$
 I(\theta) = (\cos^2 \theta + 0.5) \times (1 + a \cos \theta)
 $$
+
 其中：
 - $a = 0$ ：宇称守恒  
 - $a > 0$ ：宇称破缺程度  
@@ -116,6 +118,7 @@ F_{xy} = \partial_x A_y - \partial_y A_x
 $$
 
 Lagrangian（能量密度）：
+
 $$
 \mathcal{E} = \frac{1}{2} (A_x^2 + A_y^2) + \frac{1}{2} B_z^2
 $$
