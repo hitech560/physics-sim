@@ -8,6 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-parity_violation_presentation_blit_fast.py
-parity_violation_presentation_no_ghost.py
-parity_violation_presentation_patched.py
+test/
